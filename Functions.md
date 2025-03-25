@@ -1,4 +1,4 @@
-Here are the updated function names for the `mr-camel` package:
+Here are the updated function names for the `mr-case` package:
 
 ### **Core Functions**
 1. **`toCamel(str: string): string`** → Converts underscore_case to camelCase.

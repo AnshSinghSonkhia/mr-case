@@ -1,6 +1,6 @@
 {
   "name": "mr-case",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "55 functions to seamlessly transform strings, arrays, and object keys between different cases (camelCase, snake_case, kebab-case, PascalCase, Title Case, and more), clean and format text, extract URL components, and perform common text operations like masking, obfuscation, and abbreviation. Whether you're dealing with API responses, filenames, database fields, SEO-friendly slugs, or user-generated content, mr-case makes string manipulation effortless and efficient.",
   "main": "index.js",
   "directories": {

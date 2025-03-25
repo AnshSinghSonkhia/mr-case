@@ -1,4 +1,4 @@
-# mr-case
+# mr-case 🤓
 
 `mr-case` is a powerful and lightweight JavaScript utility library for case conversion, string formatting, and text manipulation. It provides a rich set of **55 functions** to seamlessly transform strings, arrays, and object keys between different cases (**camelCase, snake_case, kebab-case, PascalCase, Title Case, and more**), **clean and format text**, **extract URL components**, and perform common text operations like **masking, obfuscation,** and **abbreviation.**
 

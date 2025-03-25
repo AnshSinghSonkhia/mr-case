@@ -176,3 +176,26 @@ Here are the new functions we should add to `mr-camel` for enhanced text handlin
 ---
 
 Would you like me to implement the core functions first? 🚀
+
+36. titleCase(str: string): string → Converts a string to Title Case (e.g., "hello world" → "Hello World").
+37. swapCase(str: string): string → Swaps the case of each letter (e.g., "Hello World" → "hELLO wORLD").
+38. sentenceCase(str: string): string → Capitalizes the first letter of the string and makes the rest lowercase.
+39. randomCase(str: string): string → Randomly capitalizes letters in the string.
+40. abbreviate(text: string): string → Converts "United Nations" → "UN", "Machine Learning" → "ML".
+41. initials(name: string): string → Gets the initials of a name (e.g., "John Doe" → "J.D.").
+42. isPalindrome(str: string): boolean → Checks if a string is a palindrome (e.g., "madam" → true).
+43. isAnagram(str1: string, str2: string): boolean → Checks if two words are anagrams.
+
+44. removeExtraSpaces(str: string): string → Trims and removes extra spaces from a string.
+45. removeNumbers(str: string): string → Removes digits from a string.
+46. keepOnlyNumbers(str: string): string → Removes everything except numbers.
+47. truncate3dots(str: string, length: number): string → Truncates a string with "..." if it exceeds length.
+48. shortenText(str: string, limit: number): string → Keeps words within the limit instead of cutting mid-word.
+49. generateSlug(str: string): string → Converts "Hello World!" → "hello-world" (SEO-friendly URL slugs).
+50. extractDomain(url: string): string → Extracts "example.com" from "https://www.example.com".
+51. extractPath(url: string): string → Extracts the path "/blog/article" from "https://example.com/blog/article".
+52. reverseWords(str: string): string → "Hello World" → "World Hello".
+
+53. reverseString(str: string): string → "Hello" → "olleH".
+54. obfuscateEmail(email: string): string → "john.doe@gmail.com" → "j***@g****.com".
+55. maskString(str: string, visible: number): string → "HelloWorld" → "Hel*****ld" (for passwords, sensitive data).

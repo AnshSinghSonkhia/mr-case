@@ -1,5 +1,5 @@
-const keepOnlyNumbers = require('../src/keepOnlyNumbers');
+const keepOnlyNums = require('../src/keepOnlyNums');
 
 test('keeps only numbers', () => {
-    expect(keepOnlyNumbers('Hello123 World456')).toBe('123456');
+    expect(keepOnlyNums('Hello123 World456')).toBe('123456');
 });

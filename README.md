@@ -4,6 +4,8 @@
 
 Whether you're dealing with `API responses`, `filenames`, `database fields`, `SEO-friendly slugs`, or `user-generated content`, mr-case makes string manipulation effortless and efficient.
 
+[![npm](https://img.shields.io/npm/v/mr-case.svg)](https://www.npmjs.com/package/mr-case)  [![License](https://img.shields.io/npm/l/mr-case.svg)](LICENSE)  [![Downloads](https://img.shields.io/npm/dt/mr-case.svg)](https://www.npmjs.com/package/mr-case) 
+
 # 📦 Installation
 
 Install via npm

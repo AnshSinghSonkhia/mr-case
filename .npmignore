@@ -1,6 +1,7 @@
 Functions.md
 test/
 .gitignore
+.gitattributes
 
 # Ignore node_modules directory
 node_modules/
